@@ -1,0 +1,6 @@
+
+gpython:S100"KRename method "isEmpty" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÇŽõ¹ùÿÿÿÿ
+hpython:S100"LRename method "addFirst" to match the regular expression ^[a-z_][a-z0-9_]*$.(êëíœûÿÿÿÿ
+gpython:S100"KRename method "addLast" to match the regular expression ^[a-z_][a-z0-9_]*$.(–Šñèøÿÿÿÿ
+kpython:S100"ORename method "removeFirst" to match the regular expression ^[a-z_][a-z0-9_]*$.(Šêã¶ùÿÿÿÿ
+jpython:S100"NRename method "removeLast" to match the regular expression ^[a-z_][a-z0-9_]*$.(¨³½Šøÿÿÿÿ
