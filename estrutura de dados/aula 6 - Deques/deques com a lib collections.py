@@ -43,5 +43,5 @@ print(d3)
 # Para copiar uma versão atual do deque
 d2 = d.copy()
 
-print(d.count(d))
+print(d.count(d)) # Para contar o numeros de elementos iguais no deque
 #print(d.index('a')) # Para achar a primeira ocorrencia de um elemento

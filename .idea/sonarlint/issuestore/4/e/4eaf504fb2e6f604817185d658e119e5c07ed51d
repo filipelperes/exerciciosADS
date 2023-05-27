@@ -1,0 +1,9 @@
+
+lpython:S5797:"HReplace this expression; used as a condition it will always be constant.(ÄÃðÎüÿÿÿÿ8Ã–¬ó…1
+kpython:S117
+"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(…è¿É8Å–¬ó…1
+kpython:S117
+"MRename this parameter "N" to match the regular expression ^[_a-z][a-z0-9_]*$.(…è¿É8Ç–¬ó…1
+ppython:S117"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(äžÜ¼øÿÿÿÿ8Ï–¬ó…1
+ppython:S117"MRename this parameter "N" to match the regular expression ^[_a-z][a-z0-9_]*$.(äžÜ¼øÿÿÿÿ8Ñ–¬ó…1
+Gpython:S1110;"#Remove those redundant parentheses.(Þ© °üÿÿÿÿ8Õ–¬ó…1
