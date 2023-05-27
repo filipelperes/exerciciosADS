@@ -1,10 +1,6 @@
 
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-k
-;estrutura de dados/aula 6 - deques com a lib collections.py,1\8\18d6b56352e0ba579c41eae43eb9ec6e2b35bfd0
-d
-4estrutura de dados/aula 1 - listas sequenciais.ipynb,3\5\355cb48216c6d0d70e0c31a0d6a06b4459bd4108
 è
 _estrutura de dados/aula 7 - buscas sequencial, binaria e tabela hash/exemplo pesquisa linear.py,a\1\a1c51ce7ab5caad6f93436dc38295a7ceaa13f63
 Ü
