@@ -13,3 +13,15 @@ r
 Bestrutura de dados/aula 6 - Deques/deques com a lib collections.py,3\6\3670dc94c38deaf4e763243a40269643083ed673
 M
 estrutura de dados/ATs/AT1.py,a\5\a55b7c3bd2eb736ac3367f6a36ae10da08981fd3
+d
+4estrutura de dados/aula 1 - listas sequenciais.ipynb,3\5\355cb48216c6d0d70e0c31a0d6a06b4459bd4108
+n
+>estrutura de dados/aula 8 - ordenacao de dados/sorting/test.py,7\1\710b7a3538472f2f6c31c9b65cd384cb2c134ace
+k
+;estrutura de dados/aula 8 - ordenacao de dados/quicksort.py,5\7\5775468cbadab6abd9d47c250ead20ee56714e61
+q
+Aestrutura de dados/aula 8 - ordenacao de dados/sorting/sorting.py,b\0\b0fe1b6fc5c125b499c012c82b51c856b212474f
+n
+>estrutura de dados/aula 8 - ordenacao de dados/countingsort.py,d\f\df561c093ae134a58d75e99d4a291eb58ebc2894
+k
+;estrutura de dados/aula 8 - ordenacao de dados/mergesort.py,4\b\4b176f7c13f3c664008468ce5225e6cfc855cd58
