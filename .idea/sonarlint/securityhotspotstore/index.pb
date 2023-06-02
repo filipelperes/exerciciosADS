@@ -25,3 +25,7 @@ n
 >estrutura de dados/aula 8 - ordenacao de dados/countingsort.py,d\f\df561c093ae134a58d75e99d4a291eb58ebc2894
 k
 ;estrutura de dados/aula 8 - ordenacao de dados/mergesort.py,4\b\4b176f7c13f3c664008468ce5225e6cfc855cd58
+w
+Gestrutura de dados/aula 9 - arvores binarias e genericas/infografico.py,c\9\c99c3b5c3ba22ed5c50c180394b04dedd0ade5fd
+|
+Lestrutura de dados/aula 9 - arvores binarias e genericas/Exemplo(s) livro.py,9\a\9ae1a7935d45c7d9674f2e0ad06f49f3dae9c159
