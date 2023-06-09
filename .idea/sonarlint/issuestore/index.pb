@@ -29,3 +29,5 @@ k
 ;estrutura de dados/aula 8 - ordenacao de dados/mergesort.py,4\b\4b176f7c13f3c664008468ce5225e6cfc855cd58
 |
 Lestrutura de dados/aula 9 - arvores binarias e genericas/Exemplo(s) livro.py,9\a\9ae1a7935d45c7d9674f2e0ad06f49f3dae9c159
+l
+<estrutura de dados/aula 10 - arvores pt2/Exemplo(s) livro.py,a\f\af7eb6b855b81b2e27f945cc55130677c0ca7e3a

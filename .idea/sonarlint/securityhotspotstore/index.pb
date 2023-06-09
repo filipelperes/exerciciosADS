@@ -29,3 +29,5 @@ w
 Gestrutura de dados/aula 9 - arvores binarias e genericas/infografico.py,c\9\c99c3b5c3ba22ed5c50c180394b04dedd0ade5fd
 |
 Lestrutura de dados/aula 9 - arvores binarias e genericas/Exemplo(s) livro.py,9\a\9ae1a7935d45c7d9674f2e0ad06f49f3dae9c159
+l
+<estrutura de dados/aula 10 - arvores pt2/Exemplo(s) livro.py,a\f\af7eb6b855b81b2e27f945cc55130677c0ca7e3a
